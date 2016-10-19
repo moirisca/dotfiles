@@ -1,2 +1,2 @@
 # dotfiles
-sim preguiça e muita e "alguns" computadores
+sim preguiça e muita, há mistura "alguns" computadores
